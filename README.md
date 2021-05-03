@@ -1,4 +1,4 @@
-# PR Sentiment Analysis Data Warehouse
+# PR Consulting - Data Warehouse
 
 Group Members: Sandra Nachforg, Sahil, Mohammed, Hussaan
 
