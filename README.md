@@ -15,9 +15,11 @@ For our data warehouse project, we decided to build a data warehouse that collec
 ![image](https://user-images.githubusercontent.com/49343277/116906539-65100380-ac0e-11eb-9e5d-6781387304bc.png)
 
 **4. Step: ETL Process**
+
 The documentation of the ETL process can be found in the repository. 
 
 **5. Step: Connect Database to Tableau**
+
 After the ETL process, we created a dashboard to better understand our data. 
 The results are below: 
 
