@@ -1,6 +1,5 @@
 # PR Consulting - Data Warehouse
 
-Group Members: Sandra Nachforg, Sahil, Mohammed, Hussaan
 
 **1. Step: Idea Finding**
 
